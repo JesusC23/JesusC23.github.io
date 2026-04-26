@@ -9,7 +9,7 @@ Hello Everyone, My name is Jesus Chavez, i am a first year at Cal state Fullerto
 * Lab 1
 
     I enjoyed this lab because it was the lab we ever had and I really enjoyed it because it was a new experience for me. It almost felt like a new chapter in my life was going to occur. I also liked this lab because it was the first time I had coded in a long time, and because it was fairly simple. 
-    <\span>
+    </span>
     ---
 
 * Lab 3 
