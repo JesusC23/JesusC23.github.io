@@ -1,9 +1,9 @@
 
 # Jesus Chavez's Portfolio spring 2026
 
-Hello Everyone, My name is Jesus Chavez, i am a first year at Cal state Fullerton and my major is electrical engineering. I plan to graduate in 2029, God willing. 
+Hello Everyone, My name is Jesus Chavez, i am a first year at Cal state Fullerton and my major is electrical engineering. I plan to graduate in 2029, God willingly. 
 
-## favorite CPSP 120L Labs
+## favorite CPSC 120L Labs
 
 * Lab 1
 
@@ -16,3 +16,6 @@ Hello Everyone, My name is Jesus Chavez, i am a first year at Cal state Fullerto
 * Lab 7
 
     Lab 7 is another one of my favorite labs because I got to work with someone who has the same major as me. I also liked all parts of the lab and found them very interesting in terms of what they do. 
+
+
+@JesusC23
